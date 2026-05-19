@@ -128,9 +128,6 @@ export default function App() {
               className="h-[50px] w-auto rounded-lg shadow-sm"
               style={{ height: '50px' }}
             />
-            <span className="font-display font-bold text-xl text-primary-900 hidden sm:block">
-              Coriftech
-            </span>
           </div>
 
           <div className="hidden md:flex items-center gap-10 font-medium">
@@ -578,7 +575,7 @@ export default function App() {
             <div className="col-span-2">
               <div className="flex items-center gap-2 mb-6">
                 <img src={LOGO_URL} alt="Logo" className="h-[40px] rounded-md" />
-                <span className="font-display font-bold text-2xl text-primary-900 tracking-tight">Coriftech</span>
+            
               </div>
               <p className="text-slate-600 text-lg max-w-sm mb-6 leading-relaxed">
                 Empowering the next generation of digital leaders in Nigeria. Practical skills for real opportunities.
