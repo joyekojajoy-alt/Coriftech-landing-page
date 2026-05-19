@@ -1,0 +1,6 @@
+{
+  "name": "Coriftech Solutions",
+  "description": "Modern educational tech platform for Nigerian students to learn practical digital skills and build their future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
