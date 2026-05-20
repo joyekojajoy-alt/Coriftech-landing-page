@@ -288,13 +288,7 @@ export default function App() {
               </div>
             </motion.div>
 
-            <motion.div 
-              {...fadeInUp}
-              className="relative rounded-3xl bg-primary-600 p-2 overflow-hidden shadow-2xl aspect-video w-full"
-            >
-              {/* This represents a "Story" or "Welcome" Video */}
-              <div className="absolute inset-0 z-0 opacity-40">
-                <img 
+            
                   src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc?q=80&w=2070&auto=format&fit=crop" 
                   alt="Students in class" 
                   className="w-full h-full object-cover"
