@@ -289,17 +289,7 @@ export default function App() {
             </motion.div>
 
             
-                  src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc?q=80&w=2070&auto=format&fit=crop" 
-                  alt="Students in class" 
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <div className="relative h-full flex items-center justify-center">
-                <button className="w-20 h-20 bg-white rounded-full flex items-center justify-center text-primary-600 hover:scale-110 transition-transform shadow-2xl">
-                  <Play className="w-8 h-8 fill-current ml-1" />
-                </button>
-              </div>
-            </motion.div>
+                 
           </div>
         </div>
       </section>
